@@ -1,0 +1,98 @@
+body {
+    width: 500px;
+    height: 400px;
+    display: inline;
+    font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+    padding: 10px;
+}
+
+#nav {
+    font-size: 16px;
+    height: 60px;
+    padding-left: 10px;
+}
+
+#Sright {
+    float: left;
+    width: 300px;
+    padding-left: 10px;
+}
+
+a:link{
+    color: #000000;
+    text-decoration: none;
+}
+
+.vl {
+    float: left;
+    border-left: 1px solid rgb(0, 0, 0);
+    height: 70px;
+    margin-left: 250px;
+    position: absolute;
+  }
+
+#Sleft {
+    float: left;
+    width: 200px;
+    padding-left: 10px;
+}
+
+#name {
+    margin: 0.4px;
+    font-weight: 550;
+    font-size: 20px;
+    text-transform: capitalize;
+    color: #464646;
+}
+
+#spec {
+    font-weight: 550;
+    margin: 0.4px;
+    color: #000000
+}
+
+#icons {
+    float: left;
+    width: 200px;
+    padding: 20px;
+    list-style: none;
+}
+
+#contacIcon {
+    width: 15xp;
+    height: 15px;
+}
+
+#contact {
+    list-style: none;
+    margin: 0.4px;
+    font-size: 12px;
+}
+
+#line {
+    width: 500px;
+    padding-left: 10px;
+}
+
+.line1 {
+    border-top: 1px solid red;
+}
+
+#logo {
+    width: 20xp;
+    height: 20px;
+}
+
+#Fleft{
+    float: left;
+    width: 431.55px;
+    padding-left: 10px;
+}
+
+
+#Fright{
+    float: left;
+}
